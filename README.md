@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Madhuri
 
-<!--
-**saikiamadhuri/saikiamadhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Developer with over 10 years of experience in building full-stack applications using Java, Spring Boot, and React. I've contributed to scalable enterprise systems at Benevity, JPMorgan Chase, and Oracle Financial Services.
 
-Here are some ideas to get you started:
+While most of my work has been within private enterprise codebases, the public repositories here showcase some of my earlier work and technical interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Backend**: Java, Spring Boot, REST APIs, JPA, SQL
+- **Frontend**: React, TypeScript
+- **Dev Tools**: Git, Docker, Jenkins, IntelliJ, VS Code
+
+### 🚀 Open to new opportunities
+I'm currently interviewing for senior software roles — feel free to send a technical challenge or test project. I'm happy to showcase how I work.
+
+📫 **LinkedIn** - www.linkedin.com/in/madhuri-saikia, **Email** - saikia.madhuri@gmail.com
+  
